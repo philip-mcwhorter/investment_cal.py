@@ -19,5 +19,5 @@ def calculator():
     print(stockrate)
     inputs(stockrate)
     
-    
+#this is a new comment  
 calculator()
